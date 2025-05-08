@@ -17,9 +17,6 @@
 <svelte:head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="manifest" href="/manifest.webmanifest" />
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <meta name="theme-color" content={themeColor} />
   <meta name="color-scheme" content={colorScheme} />
   <meta name="keywords" content={keywords.join(', ')} />
